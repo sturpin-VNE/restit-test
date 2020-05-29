@@ -1,0 +1,84 @@
+{
+  "squadName" : "Super Hero Squad",
+  "homeTown" : "Metro City",
+  "formed" : 2016,
+  "secretBase" : "Super tower",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Molecule Man",
+      "age" : 29,
+      "secretIdentity" : "Dan Jukes",
+      "powers" : [
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
+      ]
+    },
+    {
+      "name" : "Madame Uppercut",
+      "age" : 39,
+      "secretIdentity" : "Jane Wilson",
+      "powers" : [
+        "Million tonne punch",
+        "Damage resistance",
+        "Superhuman reflexes"
+      ]
+    },
+    {
+      "name" : "Eternal Flame",
+      "age" : 1000000,
+      "secretIdentity" : "Unknown",
+      "powers" : [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
+    }
+  ],
+    "top_escargots" : [
+        {
+            "rang" : 1,
+            "espece": "Petit-gris",
+            "url_photo": "http://formation.vigienature-ecole.fr/restits/img/vignettes_escargots/Petit_gris.png"
+        },
+        {
+            "rang" : 2,
+            "espece": "Boutons",
+            "url_photo": "http://formation.vigienature-ecole.fr/restits/img/vignettes_escargots/Boutons.png"   
+        },
+        {
+            "rang" : 3,
+            "espece": "Autres limaces",
+            "url_photo": "http://formation.vigienature-ecole.fr/restits/img/vignettes_escargots/Autres_limaces.png"   
+        },
+        {
+            "rang" : 4,
+            "espece": "Luisants",
+            "url_photo": "http://formation.vigienature-ecole.fr/restits/img/vignettes_escargots/Luisants.png"   
+        },
+        {
+            "rang" : 5,
+            "espece": "Hélicelles",
+            "url_photo": "http://formation.vigienature-ecole.fr/restits/img/vignettes_escargots/Helicelles.png"   
+        },
+    ],
+    
+    "stat_escargots1" : [
+        {
+            "nombre" : 4532,
+            "texte" : "escargots ont été comptés",
+        }
+    ],
+    
+    "stat_escargots2" : [
+        {
+            "nombre" : 312,
+            "texte" : "villes différentes",
+        }
+    ],
+    
+    "stat-escargots3" : "Youpi !",
+}
